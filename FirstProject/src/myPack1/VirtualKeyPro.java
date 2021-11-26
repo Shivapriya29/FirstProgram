@@ -45,7 +45,7 @@ public class VirtualKeyPro {
 	      int terminateflag = 0;
 
 	      do {
-	    	  System.out.println("Choose Option :\n\n 1. Retrive files from main Folder in asscending order \n 2. File Operations \n 3. Terminate the program sucessful\n");
+	    	  System.out.println("Choose Option :\n\n 1. Retrieve files from main Folder in ascending order \n 2. File Operations \n 3. Terminate the program sucesfull\n");
 	    	  inputCase = sc.nextInt();
 
 	    	  switch(inputCase) {
